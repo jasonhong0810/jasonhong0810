@@ -5,9 +5,9 @@ My name is Jason Hong, an undergraduate Computer Science student at Boston Unive
 
 - 🔭 I’m currently working on ... filter-me: my exploration of automatic face detection and filter application.
 - 🌱 I’m currently learning ... C++/Golang to write faster code.
-<!-- - 👯 I’m looking to collaborate on ...-->
-<!-- - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about ... Anything!
-<!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: ... He/Him
-<!-- - ⚡ Fun fact: ... -->
+<!-- - ⚡ Fun fact: ... 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 📫 How to reach me: ... -->
